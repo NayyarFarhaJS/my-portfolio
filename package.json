@@ -2,6 +2,7 @@
   "name": "portfolio_react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://NayyarFarhaJS.github.io/my-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
